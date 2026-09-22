@@ -1,3 +1,4 @@
+<img width="1369" height="725" alt="imagem" src="https://github.com/user-attachments/assets/0f38c544-cb25-4117-ab21-4862db01f0b7" />
 ![Modelagem dos dados evg]("imagem.png")
 
 # Projeto de Modelagem de Dados - Matrículas
